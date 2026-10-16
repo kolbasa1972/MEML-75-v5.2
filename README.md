@@ -3,7 +3,7 @@
 Phenomenological model of the fermion sector of the Standard Model
 from T²/ℤ₃ geometry with modular A₄ symmetry.
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+https://doi.org/10.5281/zenodo.23419395
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Key results
