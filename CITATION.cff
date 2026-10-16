@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or results, please cite it as below."
+authors:
+  - family-names: Yurov
+    given-names: D. V.
+    orcid: https://orcid.org/0009-0006-5467-7510
+title: "MEML 75: Phenomenological Model of the Fermion Sector of the Standard Model from T²/ℤ₃ Geometry"
+version: 5.2
+date-released: 2026-10-16
+url: "https://github.com/USERNAME/MEML-75"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Yurov
+      given-names: D. V.
+  title: "Model MEML 75: Phenomenological Model of the Fermion Sector of the Standard Model from T²/ℤ₃ Geometry"
+  year: 2026
+  
+ 
+  primary-class: hep-ph
